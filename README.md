@@ -1,3 +1,7 @@
+## Thesis
+"Optimizing Brainfuck-to-Python Transpilation: A
+Semantic vs. Syntactic Analysis Approach"
+
 ## Installation
 
 To set up the environment for this project, you need to install the dependencies listed in `requirements.txt`. You can do this by running the command in your terminal:
